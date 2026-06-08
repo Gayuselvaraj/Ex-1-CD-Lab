@@ -3,7 +3,7 @@
 
 # Reg.no:212224230073
 
-# DATE: 11-05-2026
+# DATE: 12-05-2026
 # AIM :
 To write a C program to implement a symbol table.
 
